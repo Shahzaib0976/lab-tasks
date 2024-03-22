@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <header class="nav-bar">
+        <nav class="navbar">
+        <div class="logo">
+            <h2>Me</h2>
+        </div>
+        <div class="nav-links">
+            <ul>
+                <li><a href="#">WHO</a></li>
+                <li><a href="#">WHAT</a></li>
+                <li><a href="#">WHERE</a></li>
+            </ul>
+        </div>
+        </nav>
+        
+    </header>
+
+    <section class="main">
+
+    <div class="content">
+        <div class="content-title">
+            <div class="title1">
+            <h3>Who Am I?</h3>
+            </div>
+            <img src="suit.jpg">
+            <p>I am Faisal Hayat Bs Software Engineering Student</p>
+        </div>
+    </div>
+
+    <div class="data">
+        <div class="data-title">
+            <h2>What Am I?</h2>
+        </div>
+        <div class="data-description">
+        <p>I am a Profeesional Web developer</p>
+        </div>
+        <div class="button">
+
+        <button type="submit">Search</button>
+        </div>
+    </div>    
+
+    </section>
+
+    <div class="location">
+        <div class="code">
+            <h1>Where To Find my codes?</h1>
+        </div>
+        <div class="list">
+            <ul>
+                <li><a href="#">http//Faisal Hayat/web developer</a></li>
+                <li><a href="#">http//Faisal Hayat/web developer</a></li>
+                <li><a href="#">http//Faisal Hayat/web developer</a></li>
+                <li><a href="#">http//Faisal Hayat/web developer</a></li>
+                <li><a href="#">http//Faisal Hayat/web developer</a></li>
+            </ul>
+            <ul>
+                <li><a href="#">http//Faisal Hayat/web developer</a></li>
+                <li><a href="#">http//Faisal Hayat/web developer</a></li>
+                <li><a href="#">http//Faisal Hayat/web developer</a></li>
+                <li><a href="#">http//Faisal Hayat/web developer</a></li>
+                <li><a href="#">http//Faisal Hayat/web developer</a></li>
+            </ul>
+            <ul>
+                <li><a href="#">http//Faisal Hayat/web developer</a></li>
+                <li><a href="#">http//Faisal Hayat/web developer</a></li>
+                <li><a href="#">http//Faisal Hayat/web developer</a></li>
+                <li><a href="#">http//Faisal Hayat/web developer</a></li>
+                <li><a href="#">http//Faisal Hayat/web developer</a></li>
+            </ul>
+        </div>
+        </div>
+    </div>
+
+    <footer>
+        <h3>Bootstrap Theme Made By<a href="#">Faisal hayat</a></h3>
+    </footer>
+
+</body>
+</html>
