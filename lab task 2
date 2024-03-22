@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Result</title>
+</head>
+
+<body>
+    <h1>Sixth Semester :</h1>
+    <table border="2">
+        <thead>
+            <tr>
+                <th>Subject</th>
+                <th>Marks</th>
+                <th>Grade</th>
+                <th>GPA</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Application Development</td>
+                <td>85</td>
+                <td>A</td>
+                <td>4</td>
+            </tr>
+            <tr>
+                <td>Web Development</td>
+                <td>90</td>
+                <td>A</td>
+                <td>4</td>
+            </tr>
+            <tr>
+                <td>Cyber Security</td>
+                <td>85</td>
+                <td>A</td>
+                <td>4</td>
+            </tr>
+            <tr>
+                <td>Entrprenuership</td>
+                <td>87</td>
+                <td>A</td>
+                <td>4</td>
+            </tr>
+            <tr>
+                <td>Software Construction</td>
+                <td>86</td>
+                <td>A</td>
+                <td>4</td>
+            </tr>
+            <tr>
+                <td>Software Architecture</td>
+                <td>85</td>
+                <td>A</td>
+                <td>4</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+
+</html>
