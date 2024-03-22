@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LAB | TASK 2</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="navigation">
+        <nav>
+            <div class="logo">
+                <img src="logo.png" alt="logo image">
+            </div>
+            <div class="nav-links">
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About Us</a></li>
+                    <li><a href="#">Contact us</a></li>
+                    <li><a href="#">Courses</a></li>
+                    <li><a href="#">Pages</a></li>
+                    <li><a href="#">Blogs</a></li>
+                </ul>
+                <button href="submit" class="btn">Login Here</button>
+            </div>
+        </nav>
+
+        <div class="container">
+            <div class="space"></div>
+            <h1>Education is the key <br> To Unlock the golden
+            <br> door of freedom.</h1>
+            <div class="shape">
+                <button href="#" class="btn2">Courses Here</button>
+            </div>
+        
+            <div class="form">
+                <form action="submit" class="record">
+                    <input type="text" placeholder="Name Here">
+                    <input type="text" placeholder="Enter Emial" style="margin-left: 1rem;">
+                    <input type="text" placeholder="Courses" style="margin-left: 1rem;">
+                    <button href="#" class="btn4">Submit Here</button>
+                </form>
+            </div>
+       
+    </header>
+
+    <section>
+        <div class="content">
+            <div class="content-data" id="border">
+                <h1>Qualified Teacher</h1>
+                <p>Teachings of the great and explorer the truth
+                    master human and happiness rejects dislike
+                    expound and avoids pleasure.
+                </p>
+            </div>
+
+            <div class="content-data" id="border">
+                <h1>Qualified Teacher</h1>
+                <p>Teachings of the great and explorer the truth
+                    master human and happiness rejects dislike
+                    expound and avoids pleasure.
+                </p>
+            </div>
+
+            <div class="content-data">
+                <h1>Qualified Teacher</h1>
+                <p>Teachings of the great and explorer the truth
+                    master human and happiness rejects dislike
+                    expound and avoids pleasure.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <section class="popular">
+
+        <div class="title">
+            <h1>Popular Courses</h1>
+            <p>Expound the actual teachings of the great explorer of the
+                truth master human happiness <br> <span style="margin-left: 17rem;">one reject dislikes avoids
+                pleasure</span>
+            </p>
+        </div>
+
+        <div class="courses">
+            <div class="first">
+                <img src="img3.jpg" alt="group of people" class="pic">
+                <div class="days">
+                     <h3>120 Days</h3>
+                     <h3>$920</h3>
+                </div>
+                <div class="about">
+                    <h1>Complete web development course</h1>
+                    <p>Expand the actual teachings of the great explorer
+                        of the truth master human.
+                    </p>
+                </div>
+
+                <div class="profile">
+                    <img src="img1.jpg" alt="profile picture">
+                    <div class="detail">
+                    <h1>Hasbur Rahman</h1>
+                    <h3>Web Developer</h3>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="middle">
+                <img src="img3.jpg" alt="group of people" class="pic">
+                <div class="days">
+                     <h3>120 Days</h3>
+                     <h3>$920</h3>     
+                </div>
+                <div class="about">
+                    <h1>Complete web development course</h1>
+                    <p>Expand the actual teachings of the great explorer
+                        of the truth master human.
+                    </p>
+                </div>
+
+                <div class="profile">
+                    <img src="img1.jpg" alt="profile picture">
+                    <div class="detail">
+                    <h1>Hasbur Rahman</h1>
+                    <h3>Web Developer</h3>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="last">
+                <img src="img3.jpg" alt="group of people" class="pic">
+                <div class="days">
+                     <h3>120 Days </h3>
+                     <h3>$920</h3>     
+                </div>
+                <div class="about">
+                    <h1>Complete web development course</h1>
+                    <p>Expand the actual teachings of the great explorer
+                        of the truth master human.
+                    </p>
+                </div>
+
+                <div class="profile">
+                    <img src="img1.jpg" alt="profile picture">
+                    <div class="detail">
+                    <h1>Hasbur Rahman</h1>
+                    <h3>Web Developer</h3>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </section>
+
+    <footer class="hero">
+        <div class="footer-logo">
+            <img src="foter-logo.png" alt="logo picture">
+            <p>Expound the actual teachings of the great <br> explorer of the
+                truth master human happiness <br> one reject dislikes avoids
+                pleasure</span>
+            </p>
+            <div class="sqr">
+            <h2 class="square"></h2>
+            <h2 class="square1"></h2>
+            </div>
+        </div>
+
+        <div class="social-links">
+            <h1>Important Links</h1>
+            <ul class="linkss">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+                <li><a href="#">FAQ</a></li>
+            </ul>
+        </div>
+
+        <div class="map">
+          <img src="map.png" alt="Map ">
+          <h3>00 965-864-938 <span style="margin-left: 2rem;">71 Pilgrim Avenue</span></h3>
+          <h3>00 856-837-394 <span style="margin-left: 2rem;">Chevy Chase, MD 20815</span></h3>
+        </div>
+
+    </footer>
+
+    <div class="rights">
+        <h3>CopyrightsErudian, All right reserved</h3>
+    </div>
+  
+</body>
+</html>
