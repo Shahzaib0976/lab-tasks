@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <section class="menu">
+        <div class="container">
+            <span class="discription">America's Leading Doctor of Inflammation Reveals...</span>
+            <h1 class="title">30-Second "Bone on Bone"<br> Trick for greasing Your<br> Knees, Hips, Elbows & Back</h1>
+        </div>
+    </section>
+
+
+    <section class="icon">
+        <div class="icon-logo">
+            <h1 style="font-weight: bold;">AS FEATURED ON :</h1>
+            <img src="img1.png">
+            <img src="img2.png">
+            <img src="img3.png">
+            <img src="img4.png">
+        </div>
+
+        <div class="content-data">
+            <video src="video.mp4" controls></video>
+        </div>
+        <div class="btn1">
+        <button type="submit" class="btn">NEXT STEP</button>
+        </div>
+
+        <div class="about">
+            <img src="dr.jpg" alt="employ pic" width="18%;">
+            <div class="dr">
+            <div class="h1">
+            <h1>DR. JOSHUA LEVITT</h1>
+            </div>
+            <p>Dr. joshua Levitt runs one of the most highly respected holistic medicine practices in new
+                England where he sees patients and serves as a clincal preceptor for the Yale School of medicine in practice, 
+                Dr. josh draws upon the science of both conventional and naturopathic medicine, artfully combining the two into a unique
+                "best of both worlds" approach.
+            </p>
+            </div>
+        </div>
+    </section>
+
+    <footer class="end">
+
+        <div class="pra">
+        <p>These statements have not been evaluated by the Food and Drugs Administration. The information is not intended to diagnose, treat, cure or prevent any disease.</p>
+        </div>
+
+        <div class="data">
+        <h2>Contact Us</h2>
+        <h2>Terms of Use</h2>
+        <h2>Privacy Policy</h2>
+        <h2>Disclaimer</h2>
+        </div>
+
+        <div class="rights">
+        <h6>2023 UpWellness. All Rights Reserved</h6>
+        </div>
+
+        <div class="number">
+        <h5>(800) 876-2196</h5>
+        </div>
+
+    </footer>
+</body>
+</html>
